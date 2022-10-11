@@ -1,0 +1,13 @@
+{
+  "name": "sh-print-nanos-now",
+  "version": "0.0.1",
+  "repo": "landonb/sh-print-nanos-now",
+  "description": "Prints the epoch time in floating-point format",
+  "keywords": ["terminal", "term", "nanosecond", "floating-point", "date", "time"],
+  "license": "MIT",
+  "scripts": [
+    "bin/sh-print-nanos-now"
+  ],
+  "install": "make install",
+}
+
